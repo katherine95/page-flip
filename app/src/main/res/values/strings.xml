@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Page-Flip</string>
+    <string name="header">header</string>
+    <string name="footer">footer</string>
+</resources>

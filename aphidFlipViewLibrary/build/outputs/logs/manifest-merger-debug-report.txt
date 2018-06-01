@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:5-74
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:5-74
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:5-74
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:5-74
+INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:5-74
+	android:targetSdkVersion
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:42-71
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:6:15-41
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+		INJECTED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml
+application
+ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:8:5-12:19
+	android:label
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:8:18-50
+	android:icon
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from /home/katherine/Desktop/AndroidProjects/PageFlip/aphidFlipViewLibrary/src/main/AndroidManifest.xml:10:9-40
